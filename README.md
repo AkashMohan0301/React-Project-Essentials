@@ -49,7 +49,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 # Screenshot
 
-![Project Preview](public/image.jpg)
+![Project Preview](public/image.png)
 
 
 
