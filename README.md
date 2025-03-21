@@ -45,3 +45,12 @@ This project is hosted on **GitHub Pages**. You can access it [here](https://Aka
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+
+# Screenshot
+
+![Project Preview](public/image.jpg)
+
+
+
+
